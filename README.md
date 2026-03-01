@@ -34,3 +34,5 @@ To contribute to the CICDPipelineAutomationTool, please follow these steps:
 3. Make your changes and commit them: `git commit -m "Your commit message"`
 4. Push your changes: `git push origin feature/your-feature`
 5. Create a pull request: `git pull-request`
+
+Additional details added.
