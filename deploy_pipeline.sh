@@ -1,3 +1,4 @@
+# Minor edit
 #!/bin/bash
 
 # Deploy the pipeline
