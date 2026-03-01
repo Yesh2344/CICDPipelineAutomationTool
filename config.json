@@ -1,0 +1,12 @@
+{
+  "pipeline": {
+    "name": "my-pipeline",
+    "build_directory": "build",
+    "test_directory": "test",
+    "deploy_directory": "deploy"
+  },
+  "logging": {
+    "log_file": "log.txt",
+    "log_level": "INFO"
+  }
+}
